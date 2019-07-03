@@ -11,10 +11,10 @@
     * 2.1.3 spring mvc
 * 第三章 机器学习篇
   * [3.1 算法](31-suan-fa.md)
-* 第四章 游戏篇
+* [第四章 游戏篇](di-si-zhang-you-xi-pian.md)
   * 4.1 mineceaft
-* 第五章 嵌入式篇
-  * 5.1 树莓派
+* [第五章 嵌入式篇](di-wu-zhang-qian-ru-shi-pian.md)
+  * [5.1 树莓派](di-wu-zhang-qian-ru-shi-pian/51-shu-mei-pai.md)
 * [第六章 前端篇](di-liu-zhang-qian-duan-pian.md)
-  * 6.1 小程序
+  * [6.1 小程序](di-liu-zhang-qian-duan-pian/61-xiao-cheng-xu.md)
 
