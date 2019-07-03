@@ -9,4 +9,7 @@
     * [2.1.1 spring boot](21-spring-quan-jia-tong/211-spring-boot.md)
     * [2.1.2 zuul](21-spring-quan-jia-tong/212-zuul.md)
 * 第三章 机器学习篇
+  * [3.1 算法](31-suan-fa.md)
+* 第四章 游戏篇
+  * 4.1 mineceaft
 
