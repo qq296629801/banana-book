@@ -7,5 +7,5 @@
 * [第二章 后台篇](di-er-zhang-hou-tai-pian.md)
   * [2.1 spring 全家桶](21-spring-quan-jia-tong.md)
     * [2.1.1 spring boot](21-spring-quan-jia-tong/211-spring-boot.md)
-    * 2.1.2 zuul
+    * [2.1.2 zuul](21-spring-quan-jia-tong/212-zuul.md)
 
