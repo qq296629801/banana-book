@@ -15,4 +15,6 @@
   * 4.1 mineceaft
 * 第五章 嵌入式篇
   * 5.1 树莓派
+* [第六章 前端篇](di-liu-zhang-qian-duan-pian.md)
+  * 6.1 小程序
 
