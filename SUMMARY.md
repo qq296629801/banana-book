@@ -18,5 +18,5 @@
 * [第六章 前端篇](di-liu-zhang-qian-duan-pian.md)
   * [6.1 小程序](di-liu-zhang-qian-duan-pian/61-xiao-cheng-xu.md)
 * [第七章 算法篇  ](di-qi-zhang-suan-fa-pian.md)
-  * 7.1 数据结构
+  * [7.1 数据结构](di-qi-zhang-suan-fa-pian/71-shu-ju-jie-gou.md)
 
