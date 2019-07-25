@@ -17,4 +17,6 @@
   * [5.1 树莓派](di-wu-zhang-qian-ru-shi-pian/51-shu-mei-pai.md)
 * [第六章 前端篇](di-liu-zhang-qian-duan-pian.md)
   * [6.1 小程序](di-liu-zhang-qian-duan-pian/61-xiao-cheng-xu.md)
+* [第七章 算法篇  ](di-qi-zhang-suan-fa-pian.md)
+  * 7.1 数据结构
 
